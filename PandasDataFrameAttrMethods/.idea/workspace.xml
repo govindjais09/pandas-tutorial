@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fe77e36-99fc-4ee1-b9e8-609540205ca2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../PandasDataFrame/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasDataFrame/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PandasDataFrame/.idea/pandas-dataframe.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasDataFrame/.idea/pandas-dataframe.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PandasDataFrame/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasDataFrame/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PandasDataFrame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasDataFrame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../PandasDataFrame/Demo5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PandasDataFrame/Demo5.py" afterDir="false" />
-    </list>
+    <list default="true" id="3fe77e36-99fc-4ee1-b9e8-609540205ca2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
