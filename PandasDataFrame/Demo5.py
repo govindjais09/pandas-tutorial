@@ -8,7 +8,7 @@ data = {
     'marks' : [95,85,75,60,55]
 
 }
-
+wA
 df=pd.DataFrame(data , index = ["s1" , "s2" , "s3" , "s4" , "s5"])
 
 print("\nStudent Records by iterating column names\n\n")
